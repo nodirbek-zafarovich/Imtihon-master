@@ -392,7 +392,7 @@ select:focus {
   display: flex;
   gap: 20px;
   text-align: center;
-  padding: 0 460px;
+  padding: 0 420px;
 }
 .hero__links-text {
   color: rgb(17, 17, 17);
