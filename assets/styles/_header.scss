@@ -193,12 +193,11 @@
   }
   &__dots {
     text-align: center;
-    padding: auto;
+    padding: 0 auto;
   }
-  &__card{
-    padding: 40px 0 ;
+  &__card {
+    padding: 40px 0;
   }
- 
 }
 
 .active {
@@ -217,7 +216,7 @@ select {
   }
 }
 
-.header__card{
+.header__card {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -225,6 +224,5 @@ select {
   padding: 20px;
   border-radius: 10px;
   background-color: rgb(255, 255, 255);
-  box-shadow: rgb(0 0 0 / 5%) 0 0 8px;  
+  box-shadow: rgb(0 0 0 / 5%) 0 0 8px;
 }
-
